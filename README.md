@@ -1,4 +1,4 @@
-PHP
+<!-- PHP step 1 -->
 server side scripting language
 case sensitive and you must put ; titik koma on the last sintaks;
 
